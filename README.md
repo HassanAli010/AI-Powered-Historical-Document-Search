@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## 🌍 Live Demo (Optional)
 
-Deploy on [ https://findtextai.streamlit.app/ ](streamlit_cloud) by connecting this repo and selecting the main script.
+Deploy on  https://findtextai.streamlit.app/ (streamlit_cloud) by connecting this repo and selecting the main script.
 
 ---
 
