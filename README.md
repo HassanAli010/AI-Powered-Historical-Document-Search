@@ -1,7 +1,7 @@
 
 # 📜 AI-Powered Historical Document Search
 
-A lightweight and interactive app to search through historical `.txt` documents using **cosine similarity**, **TF-IDF**, and **natural language queries**. Built with **Python** and **Streamlit** for fast prototyping and sharing.
+A lightweight and interactive app to search through app `.txt` documents using **cosine similarity**, **TF-IDF**, and **natural language queries**. Built with **Python** and **Streamlit** for fast prototyping and sharing.
 
 ---
 
@@ -40,7 +40,7 @@ historical-search-app/
 
 ```bash
 pip install -r requirements.txt
-streamlit run historical_document_search_app.py
+streamlit run app.py
 ```
 
 ---
